@@ -3,18 +3,6 @@ body {
 }
 
 h1,h2,p {
-    background-color: black;
-}
-
-h1 {
     color: white;
     text-align: center;
-}
-
-p {
-    color: white;
-}
-
-h2 {
-    color: white;
 }
